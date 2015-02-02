@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Jon\Documents\Visual Studio 2012\Projects\FoodPantryLib\FoodPantryLib\bin\Debug\FoodPantryLib.dll" total="23" errors="0" failures="0" not-run="3" inconclusive="0" ignored="3" skipped="0" invalid="0" date="2015-02-02" time="13:25:54">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Windows\system32" machine-name="JON-PC" user="Jon" user-domain="Jon-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Jon\Documents\Visual Studio 2012\Projects\FoodPantryLib\FoodPantryLib\bin\Debug\FoodPantryLib.dll" executed="True" result="Success" success="True" time="1.092" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FoodPantryLib" executed="True" result="Success" success="True" time="1.076" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="1.076" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="AddressTests" executed="True" result="Success" success="True" time="0.203" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidState1_Failure" executed="True" result="Success" success="True" time="0.140" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidState1_Failure()" executed="True" result="Success" success="True" time="0.140" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidState2_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidState2_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidState3_Failure" executed="False" result="Ignored">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidState3_Failure()" executed="False" result="Ignored">
+                        <reason>
+                          <message><![CDATA[]]></message>
+                        </reason>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidZip1_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip1_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidZip2_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip2_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidZip3_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip3_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidZip4_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip4_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidZip5_Failure" executed="False" result="Ignored">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip5_Failure()" executed="False" result="Ignored">
+                        <reason>
+                          <message><![CDATA[]]></message>
+                        </reason>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_InvalidZip6_Failure" executed="False" result="Ignored">
+                    <reason>
+                      <message><![CDATA[]]></message>
+                    </reason>
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip6_Failure()" executed="False" result="Ignored">
+                        <reason>
+                          <message><![CDATA[]]></message>
+                        </reason>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_Plus4Zip_Success" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_Plus4Zip_Success()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidAddress_Success" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.AddressTests.IsValidAddress_Success()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="PhoneTests" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="IsValidPhone_Accessor_Success" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.PhoneTests.IsValidPhone_Accessor_Success()" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidPhone_Chars_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.PhoneTests.IsValidPhone_Chars_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidPhone_Empty_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.PhoneTests.IsValidPhone_Empty_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidPhone_Null_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.PhoneTests.IsValidPhone_Null_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidPhone_Success" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.PhoneTests.IsValidPhone_Success()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="IsValidPhone_ToString_Success" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.PhoneTests.IsValidPhone_ToString_Success()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="RecipientTests" executed="True" result="Success" success="True" time="0.842" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="CreateRecipient_WithAddressAndPhone_Success" executed="True" result="Success" success="True" time="0.671" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.CreateRecipient_WithAddressAndPhone_Success()" executed="True" result="Success" success="True" time="0.671" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="GetRecipient_Success" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.GetRecipient_Success()" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_InvalidPhone_Failure" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_InvalidPhone_Failure()" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_MinimumData_Success" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_MinimumData_Success()" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_NoFirstName_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_NoFirstName_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_NoLastName_Failure" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_NoLastName_Failure()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_WithAddress_Success" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_WithAddress_Success()" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_WithAddressAndPhone_Success" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_WithAddressAndPhone_Success()" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SaveRecipient_WithPhone_Success" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                    <results>
+                      <test-case name="FoodPantryLib.Tests.RecipientTests.SaveRecipient_WithPhone_Success()" executed="True" result="Success" success="True" time="0.031" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

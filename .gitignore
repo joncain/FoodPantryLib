@@ -1,0 +1,7 @@
+/obj
+
+*.db
+*.config
+*.exe
+*.pdb
+*.manifest

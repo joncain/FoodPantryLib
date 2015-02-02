@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1055]C:\Users\Jon\Documents\Visual Studio 2012\Projects\FoodPantryLib\FoodPantryLib\bin\Debug\FoodPantryLib.dll</TopNode>
+  <SelectedNode>[0-1057]FoodPantryLib.Tests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1055]C:\Users\Jon\Documents\Visual Studio 2012\Projects\FoodPantryLib\FoodPantryLib\bin\Debug\FoodPantryLib.dll" Expanded="true" />
+    <Node UniqueName="[0-1056]FoodPantryLib" Expanded="true" />
+    <Node UniqueName="[0-1057]FoodPantryLib.Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]FoodPantryLib.Tests.AddressTests" Expanded="true" />
+    <Node UniqueName="[0-1017]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidState1_Failure" Expanded="true" />
+    <Node UniqueName="[0-1019]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidState2_Failure" Expanded="true" />
+    <Node UniqueName="[0-1021]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidState3_Failure" Expanded="true" />
+    <Node UniqueName="[0-1005]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip1_Failure" Expanded="true" />
+    <Node UniqueName="[0-1007]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip2_Failure" Expanded="true" />
+    <Node UniqueName="[0-1009]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip3_Failure" Expanded="true" />
+    <Node UniqueName="[0-1011]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip4_Failure" Expanded="true" />
+    <Node UniqueName="[0-1013]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip5_Failure" Expanded="true" />
+    <Node UniqueName="[0-1015]FoodPantryLib.Tests.AddressTests.IsValidAddress_InvalidZip6_Failure" Expanded="true" />
+    <Node UniqueName="[0-1003]FoodPantryLib.Tests.AddressTests.IsValidAddress_Plus4Zip_Success" Expanded="true" />
+    <Node UniqueName="[0-1001]FoodPantryLib.Tests.AddressTests.IsValidAddress_Success" Expanded="true" />
+    <Node UniqueName="[0-1042]FoodPantryLib.Tests.PhoneTests" Expanded="true" />
+    <Node UniqueName="[0-1045]FoodPantryLib.Tests.PhoneTests.IsValidPhone_Accessor_Success" Expanded="true" />
+    <Node UniqueName="[0-1053]FoodPantryLib.Tests.PhoneTests.IsValidPhone_Chars_Failure" Expanded="true" />
+    <Node UniqueName="[0-1049]FoodPantryLib.Tests.PhoneTests.IsValidPhone_Empty_Failure" Expanded="true" />
+    <Node UniqueName="[0-1051]FoodPantryLib.Tests.PhoneTests.IsValidPhone_Null_Failure" Expanded="true" />
+    <Node UniqueName="[0-1043]FoodPantryLib.Tests.PhoneTests.IsValidPhone_Success" Expanded="true" />
+    <Node UniqueName="[0-1047]FoodPantryLib.Tests.PhoneTests.IsValidPhone_ToString_Success" Expanded="true" />
+    <Node UniqueName="[0-1023]FoodPantryLib.Tests.RecipientTests" Expanded="true" />
+    <Node UniqueName="[0-1040]FoodPantryLib.Tests.RecipientTests.CreateRecipient_WithAddressAndPhone_Success" Expanded="true" />
+    <Node UniqueName="[0-1024]FoodPantryLib.Tests.RecipientTests.GetRecipient_Success" Expanded="true" />
+    <Node UniqueName="[0-1030]FoodPantryLib.Tests.RecipientTests.SaveRecipient_InvalidPhone_Failure" Expanded="true" />
+    <Node UniqueName="[0-1032]FoodPantryLib.Tests.RecipientTests.SaveRecipient_MinimumData_Success" Expanded="true" />
+    <Node UniqueName="[0-1026]FoodPantryLib.Tests.RecipientTests.SaveRecipient_NoFirstName_Failure" Expanded="true" />
+    <Node UniqueName="[0-1028]FoodPantryLib.Tests.RecipientTests.SaveRecipient_NoLastName_Failure" Expanded="true" />
+    <Node UniqueName="[0-1036]FoodPantryLib.Tests.RecipientTests.SaveRecipient_WithAddress_Success" Expanded="true" />
+    <Node UniqueName="[0-1038]FoodPantryLib.Tests.RecipientTests.SaveRecipient_WithAddressAndPhone_Success" Expanded="true" />
+    <Node UniqueName="[0-1034]FoodPantryLib.Tests.RecipientTests.SaveRecipient_WithPhone_Success" Expanded="true" />
+  </Nodes>
+</VisualState>

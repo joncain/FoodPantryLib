@@ -1,0 +1,3 @@
+CREATE TABLE Recipients(RecipientID int primary key, ParentRecipientID int null, Deleted int null, First text not null, Last text not null, DOB Date not null, Phone varchar(12) null, Address1 varchar(512) null, Address2 varchar(512) null, City text null, State varchar(2) null, Zipcode varchar(5) null, IdVerified int default(0), AttendsCalvary int default(0), foreign key(ParentRecipientID) references Recipients2(RecipientID));
+CREATE TABLE Visits(RecipientID int not null, VisitDate not null default(date()));
+CREATE TABLE States(StateCode varchar(2) not null, StateName varchar(255) not null);
